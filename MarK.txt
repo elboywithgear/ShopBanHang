@@ -1,2 +1,6 @@
 ﻿Day la Project Shop Ban Hang!
+<<<<<<< HEAD
 Day la phan chinh sua
+=======
+Đây là phần chỉnh sửa
+>>>>>>> parent of e9b9bcc (Update demo 2)
